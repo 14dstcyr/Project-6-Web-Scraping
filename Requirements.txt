@@ -1,0 +1,8 @@
+requests
+spacy
+spacytextblob
+jupyter
+matplotlib
+numpy
+pickle
+Beautifulsoup4
