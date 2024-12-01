@@ -43,3 +43,6 @@ $ pip install spacytextblob
 * (Question 6) Histogram shown with appropriate labelling: 1 pt
 * (Question 7) Histogram shown with appropriate labelling: 1 pt
 * (Question 8) Thoughtful answer provided: 1 pt
+
+In order to create an HTML file, you can click somewhere on your python code and click control + shift + P. This will open the bar at the top of the page. Select “Jupyter: Export to HTML”
+Click enter, and it will convert a file to HTML. 
