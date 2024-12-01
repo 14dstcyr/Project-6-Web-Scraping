@@ -4,5 +4,5 @@ spacytextblob
 jupyter
 matplotlib
 numpy
-pickle
 Beautifulsoup4
+Collections
